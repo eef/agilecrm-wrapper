@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['cylehunter33@gmail.com']
   spec.summary       = 'Ruby wrapper for Agile CRM API.'
   spec.description   = 'Ruby wrapper for Agile CRM API.'
-  spec.homepage      = 'https://github.com/nozpheratu/agilecrm-wrapper'
+  spec.homepage      = 'https://github.com/eef/agilecrm-wrapper'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0")
